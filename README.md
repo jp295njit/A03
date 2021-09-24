@@ -1,4 +1,5 @@
-#Step by Step Tutorial on How to use Git and Github 
+####Step by Step Tutorial on How to use Git and Github 
+
 
 
 
