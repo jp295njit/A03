@@ -1,3 +1,6 @@
 #### Glossary 
 * Git push
-\br
+<br>
+* __pull__
+
+
