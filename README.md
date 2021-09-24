@@ -1,6 +1,6 @@
 #### Glossary 
 * Git push
 <br>
-* __pull__
+* __pull__ hello
 
 
