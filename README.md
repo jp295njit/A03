@@ -1,25 +1,20 @@
 #### Step by Step Tutorial on How to use Git and Github 
 1. First, download the latest Git from https://git-scm.com/downloads. The latest version is 2.33. Once it is downloaded, install it by double clicking on the file. 
 2. Download the latest version of Webstorm from https://www.jetbrains.com/community/education/#students. Follow the instructions to get a free license. Once it installs, start it and create a new project.
-3. Display the Webstorm setting underneath Files. Then, underneath Version Control,\
-4. click on Git. 
-5. To check if Git is connected to Webstorm, click on Test. \
-6. The location box that is highlighted should read C:\Program Files\Git\bin\git.exe. 
-7. Once Git has been installed, there will be a message that confirms that "Git Executed Successfully." Then, click OK to exit settings.
-8. Create a new project on the main page under Files. Choose a location for the file\
-   and rename it to something meaningful before clicking on Create.
+3. Display the Webstorm setting underneath Files. Then, underneath Version Controlclick on Git. 
+4. To check if Git is connected to Webstorm, click on Test. 
+5. The location box that is highlighted should read C:\Program Files\Git\bin\git.exe. 
+6. Once Git has been installed, there will be a message that confirms that "Git Executed Successfully." Then, click OK to exit settings.
+8. Create a new project on the main page under Files. Choose a location for the file and rename it to something meaningful before clicking on Create.
 9. To create a workspace, go to Files --> New --> HTML File --> HTML5. This will open
    up a page for you to work in. Give the file index a meaningful name.
 10. In HTML tags, make some changes that will be visible.
 11. Then, click on VCS on the top bar --> Import into Version Control --> Create Git Repository
-12. After clicking on OK, click on VCS again, then Git. When the pop-up box appears, click on\
-    your newly created HTML file and commit the changes at the bottom right. 
- 13. When doing this for the first time, there will be a dialog box that opens. Enter in your\
-     Git username and password so that Webstorm will be connected to GitHub. 
- 14. Add the project to GitHub by clicking on VCS, importing into Version Control and then sharing        project on Git Hub. 
+12. After clicking on OK, click on VCS again, then Git. When the pop-up box appears, click on your newly created HTML file and commit the changes at the bottom right. 
+ 13. When doing this for the first time, there will be a dialog box that opens. Enter in your Git username and password so that Webstorm will be connected to GitHub. 
+ 14. Add the project to GitHub by clicking on VCS, importing into Version Control and then sharing project on Git Hub. 
  15. Clicking on Share will both commit and push your project to the Internet/GitHub. 
- 16. Now to add a file from Github and connect it to Webstorm, add a new file to GitHub Repository\
-     and then create a new file and call it README.MD
+ 16. Now to add a file from Github and connect it to Webstorm, add a new file to GitHub Repository and then create a new file and call it README.MD
   17. Then make some changes to the file and commit them. You should be able to see hte file in your Repository. 
   18. Make some changes to your first HTML file in Webstorm and commit to Git through VCS --> Git--> Commit. You can comments to make your commit more descriptive. 
   19. Follow the same steps but this time to push the file to GitHub and off the local respo. 
