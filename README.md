@@ -1,8 +1,6 @@
 #### Step by Step Tutorial on How to use Git and Github 
-1. First, download the latest Git from https://git-scm.com/downloads. The latest version is 2.33. Once it is downloaded,\
-   install it by double clicking on the file. 
-2. Download the latest version of Webstorm from https://www.jetbrains.com/community/education/#students. Follow the instructions\
-   to get a free license. Once it installs, start it and create a new project.
+1. First, download the latest Git from https://git-scm.com/downloads. The latest version is 2.33. Once it is downloaded, install it by double clicking on the file. 
+2. Download the latest version of Webstorm from https://www.jetbrains.com/community/education/#students. Follow the instructions to get a free license. Once it installs, start it and create a new project.
 3. Display the Webstorm setting underneath Files. Then, underneath Version Control,\
 4. click on Git. 
 5. To check if Git is connected to Webstorm, click on Test. \
